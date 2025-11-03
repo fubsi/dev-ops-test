@@ -1,6 +1,9 @@
+"""Main program to demonstrate math operations."""
+
 from math.operations import add, subtract, multiply, divide, power
 
 def main():
+    """Main function to demonstrate math operations."""
     x = 10
     y = 5
 
