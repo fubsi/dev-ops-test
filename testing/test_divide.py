@@ -1,6 +1,6 @@
 """Unit tests for the divide function in math.operations module."""
 
-from math.operations import divide
+from ..math.operations import divide
 import pytest
 
 

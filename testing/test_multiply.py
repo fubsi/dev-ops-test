@@ -1,6 +1,6 @@
 """Unit tests for the multiply function in math.operations module."""
 
-from math.operations import multiply
+from ..math.operations import multiply
 
 
 def test_multiply_basic():

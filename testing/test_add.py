@@ -1,6 +1,6 @@
 """Unit tests for the add function in math.operations module."""
 
-from math.operations import add
+from ..math.operations import add
 
 def test_add():
     """Test addition of various numbers."""

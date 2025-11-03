@@ -1,6 +1,6 @@
 """Unit tests for the subtract function in math.operations module."""
 
-from math.operations import subtract
+from ..math.operations import subtract
 
 
 def test_subtract_basic():

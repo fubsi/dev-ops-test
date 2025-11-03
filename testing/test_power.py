@@ -1,6 +1,6 @@
 """Unit tests for the power function in math.operations module."""
 
-from math.operations import power
+from ..math.operations import power
 
 
 def test_power_basic():
